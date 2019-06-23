@@ -1,0 +1,32 @@
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.ConfigurationUP.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.EmailTemplateUP.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.EmailTemplateUserPanels.AddTemplateET.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.EmailTemplateUserPanels.EditTemplateET.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.EmailTemplateUserPanels.RemoveTemplateET.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.HistoryUP.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.MessageTemplateUP.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.MessageTemplateUserPanels.AddTemplateMT.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.MessageTemplateUserPanels.EditTemplateMT.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.MessageTemplateUserPanels.RemoveTemplateMT.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.SenderUP.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.WindowsTools.AddManualyTool.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.WindowsTools.AddFromFileTool.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.LoginWindow.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.Windows.MainWindow.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.Properties.Resources.resources
+E:\Email Sender\Email Sender\obj\Debug\Email Sender.csproj.GenerateResource.cache
+E:\Email Sender\Email Sender\obj\Debug\Email Sender.csproj.CoreCompileInputs.cache
+E:\Email Sender\Email Sender\bin\Debug\Email Sender.exe.config
+E:\Email Sender\Email Sender\bin\Debug\Email Sender.exe
+E:\Email Sender\Email Sender\bin\Debug\Email Sender.pdb
+E:\Email Sender\Email Sender\bin\Debug\MySql.Data.dll
+E:\Email Sender\Email Sender\bin\Debug\Google.Protobuf.dll
+E:\Email Sender\Email Sender\bin\Debug\MySql.Data.xml
+E:\Email Sender\Email Sender\obj\Debug\Email Sender.csproj.CopyComplete
+E:\Email Sender\Email Sender\obj\Debug\Email Sender.exe
+E:\Email Sender\Email Sender\obj\Debug\Email Sender.pdb
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.AccountTemplatesUP.resources
+E:\Email Sender\Email Sender\obj\Debug\Email Sender.csprojAssemblyReference.cache
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.AccountTemplatesUserPanel.AddTemplateAT.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.AccountTemplatesUserPanel.EditTemplateAT.resources
+E:\Email Sender\Email Sender\obj\Debug\Email_Sender.GUI.UserPanels.AccountTemplatesUserPanel.RemoveTemplateAT.resources
